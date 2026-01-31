@@ -18,4 +18,4 @@
 
 [去下载](https://github.com/sumver/HackVipForcomfdtune/releases)
 
-![设置](https://github.com/sumver/HackVipForcomfdtune/blob/main/app/screenshot/settings%20demo.png)
+![设置](https://github.com/Xposed-Modules-Repo/com.sumver.fdtune/blob/main/settings.png)
